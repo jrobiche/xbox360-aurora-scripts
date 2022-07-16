@@ -1,0 +1,2 @@
+Icon made by Those Icons from www.flaticon.com
+JSON Lua library by Jeffrey Friedl from http://regex.info/blog/
